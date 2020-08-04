@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c8963c9-abcf-4703-bb98-f7e57725d89e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fArmJUTzUJaQiKXD7rXSMm0xJ3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/be/intecbrussel/services/implementation" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vging\Downloads\demo\TechFashion_Umunyana\src\main\java\be\intecbrussel\services\implementation" />
+      <recent name="C:\Users\Vging\Downloads\demo\TechFashion_Umunyana\src\main\java\be\intecbrussel\services" />
+      <recent name="C:\Users\Vging\Downloads\demo\TechFashion_Umunyana\src\main\java\be\intecbrussel\dao\implementation" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="be.intecbrussel.model" />
+      <recent name="be.intecbrussel.dao" />
+      <recent name="be.intecbrussel.controller.admin" />
+      <recent name="be.intecbrussel.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vging\Downloads\demo\TechFashion_Umunyana\src\main\webapp\WEB-INF\pages" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c8963c9-abcf-4703-bb98-f7e57725d89e" name="Default Changelist" comment="" />
+      <created>1595671895159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595671895159</updated>
+      <workItem from="1595671901143" duration="8000" />
+      <workItem from="1595671942631" duration="8542000" />
+      <workItem from="1595860998910" duration="3032000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1920" y="-124" key="#Project_Structure" timestamp="1595786201365">
+      <screen x="1920" y="-124" width="1920" height="1152" />
+    </state>
+    <state x="1920" y="-124" key="#Project_Structure/0.0.1536.826/1920.-124.1920.1152@1920.-124.1920.1152" timestamp="1595786201365" />
+    <state x="0" y="0" key="#Project_Structure/0.0.1536.826@0.0.1536.826" timestamp="1595675032533" />
+    <state x="2471" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595786275281">
+      <screen x="1920" y="-124" width="1920" height="1152" />
+    </state>
+    <state x="2471" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.826/1920.-124.1920.1152@1920.-124.1920.1152" timestamp="1595786275281" />
+    <state x="224" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595672178431">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="224" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.826@0.0.1536.826" timestamp="1595672178431" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1595862327191">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.826/1920.-124.1920.1152@0.0.1536.826" timestamp="1595862327191" />
+    <state x="92" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1595674958392">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="92" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.826@0.0.1536.826" timestamp="1595674958392" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1595929887163">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.826@0.0.1536.826" timestamp="1595929887163" />
+    <state x="2778" y="323" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1595786358818">
+      <screen x="1920" y="-124" width="1920" height="1152" />
+    </state>
+    <state x="2778" y="323" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1536.826/1920.-124.1920.1152@1920.-124.1920.1152" timestamp="1595786358818" />
+  </component>
+</project>
